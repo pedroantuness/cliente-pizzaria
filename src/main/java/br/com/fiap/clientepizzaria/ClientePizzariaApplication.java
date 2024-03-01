@@ -17,7 +17,7 @@ public class ClientePizzariaApplication {
 	@GetMapping(value = "/")
 	public String index(){
 		String hello = """
-				Bom dia! 2TDSPG
+				Bom dia!
 								
 				Seja bem-vindo à Benezinho Pizzaria
 				""";
